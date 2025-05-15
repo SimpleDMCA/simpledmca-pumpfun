@@ -1,0 +1,29 @@
+{
+    "last_updated": "2025-05-15T17:02:06.776742",
+    "migrations": {
+        "4rLPJRpWgQkXqSu1YyPoL9XyGp8FGWoRvD9T5DFasLG2ZMyXq6b5uiQEzSSikmKbXj2QrVyRSf2nNA9yULuETMW7": {
+            "detection_time": "2025-05-15T17:02:06.776682",
+            "timestamp": -381565056550603803,
+            "creator": "7D7cUhoLvCgmtyzJq1du1QNkmQqN8mTwx1trzWeci7V9",
+            "tokens": {
+                "base": {
+                    "mint": "J8kdT5mXCpJXvtGZYFARdVqtULm3EFZyyxmSPbc8v5nL",
+                    "decimals": 230,
+                    "amount": 5066
+                },
+                "quote": {
+                    "mint": "FU6QHrqpeP7asH5dePRhi2zMehkjNaHUCJXEJxAikSmH",
+                    "decimals": 182,
+                    "amount": 16578221918839111680
+                }
+            },
+            "pool": {
+                "address": "11112X5c6HNBAbvs9L92X82meVNjWkZ38pKUU6yEth",
+                "lp_mint": "etC6J7fVmzHtZKzrPC572L6Ay6f",
+                "initial_liquidity": 104757044114905,
+                "base_amount": 5873532447469730980,
+                "quote_amount": 2952984141040580798
+            }
+        }
+    }
+}
